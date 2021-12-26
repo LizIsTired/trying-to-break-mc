@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# Sin Cos Swap
 
-## Setup
+## The Mod
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Inspired by [doctor4t's video](https://www.youtube.com/watch?v=1WUpXsiE1Ok), I recreated the mod (agony.jar) and am putting it here, since they didn't release it.
+The mod simply swaps what the sin and cos functions do.

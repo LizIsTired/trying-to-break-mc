@@ -1,12 +1,13 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "net.LizIsTired.SinCosSwap.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "MathHelperMixin"
   ],
   "client": [
-    "ExampleMixin"
+    "MathHelperMixin"
   ],
   "injectors": {
     "defaultRequire": 1
